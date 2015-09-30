@@ -1,0 +1,11 @@
+{
+    "dist": "./dist/",
+    "src": "./src/",
+    "javascript": "js",
+    "styles": "css",
+    "fonts": "fonts",
+    "images": "images",
+    "paths": {
+        "libs": []
+    }
+}

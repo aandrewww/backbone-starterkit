@@ -1,0 +1,15 @@
+{
+  "name": "Backbone-starterkit",
+  "version": "1.0.0",
+  "authors": [
+    "Andrew Avdeev <andrewww.avdeev@gmail.com>"
+  ],
+  "description": "Backbone starter-kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
